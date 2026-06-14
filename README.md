@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="MiraTech Logo" width="120" />
-  <h1>MiraTech</h1>
+  <h1>🖥️ MiraTech</h1>
   <p><strong>Plataforma Inteligente de Comparação e Montagem de Hardware</strong></p>
 </div>
 
