@@ -59,3 +59,12 @@ O ecossistema do projeto foi construído utilizando tecnologias modernas visando
 ![Comparador](./public/docs/screenshots/compare.png)
 
 > *Documentação gerada para apresentação técnica e visão geral da solução arquitetural.*
+
+<br>
+
+---
+
+<div align="center">
+  <p>Desenvolvido com ☕, muito <i>Vibe Coding</i> por <strong>Samuel Ramos</strong> para o <strong>Bootcamp DIO</strong>.</p>
+  <p>Construído e otimizado com o auxílio do <strong>Antigravity</strong> e ferramentas da suíte <strong>Google</strong>.</p>
+</div>
