@@ -44,14 +44,18 @@ O ecossistema do projeto foi construído utilizando tecnologias modernas visando
 
 ---
 
-## 📸 Interface e Capturas de Tela
+## 📸 Screenshots do Projeto
 
-Confira como o projeto está ficando (Interface em desenvolvimento):
+### Visão Geral (Descobrir)
+![Tela Inicial](./public/docs/screenshots/store.png)
 
-<div align="center">
-  <img src="./public/docs/screenshots/home.png" alt="Tela Inicial do Sistema" width="800" />
-</div>
+### Consultoria via IA (Chat)
+![Chat IA](./public/docs/screenshots/chat.png)
 
-<br>
+### Recomendações de Hardware
+![Recomendações](./public/docs/screenshots/recommendations.png)
+
+### Comparador de Componentes
+![Comparador](./public/docs/screenshots/compare.png)
 
 > *Documentação gerada para apresentação técnica e visão geral da solução arquitetural.*
